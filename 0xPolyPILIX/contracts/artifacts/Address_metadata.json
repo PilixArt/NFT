@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Pilix_Art_flattened.sol": "Address"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Pilix_Art_flattened.sol": {
+			"keccak256": "0x7a027c82a34bc73df71a6269553bc33baa9960c1e7349567a38ee1c482aeb231",
+			"urls": [
+				"bzz-raw://7dcc16a7d3e9e30af7c130e5c0e742a293027ee569119dc0cc1da172f065681d",
+				"dweb:/ipfs/Qmb6eT99EBuVhHAiUJKvTMFDjfAXGfJMhf18Zwg5TTD26q"
+			]
+		}
+	},
+	"version": 1
+}
